@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "package.json": "^2.0.1",
-    "three": "^0.145.0"
-  }
-}
